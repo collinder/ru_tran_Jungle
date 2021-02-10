@@ -1,17 +1,17 @@
 {
   "JungleJuicePotion": {
-    "NAME": "Jungle Juice",
+    "NAME": "Сок Джунглей",
     "DESCRIPTIONS": [
-      "Gain #b",
-      " #yStrength and receive #b",
-      " #yPoison."
+      "Даёт #b",
+      " #yСилы и накладывает #b",
+      " #yЯда."
     ]
   },
 
   "TwistedElixir": {
-    "NAME": "Twisted Elixir",
+    "NAME": "Скрученный эликсир",
     "DESCRIPTIONS": [
-      "Make an enemy stronger and gain special #yrewards based on the size of its health when this is thrown."
+      "Делает врага сильнее и даёт специальные #yнаграды, основанные на количестве ОЗ врага, когда этот эликсир брошен."
     ]
   },
 
@@ -23,23 +23,23 @@
   },
 
   "SneckoExtractPotion": {
-    "NAME": "Snecko Extract",
+    "NAME": "Экстракт Змекко",
     "DESCRIPTIONS": [
-      "Drink this and something #yextremely random will happen."
+      "Выпейте это и кое-что #yисключительно непредсказуемое произойдет."
     ]
   },
 
   "SpyderVenomPotion": {
-    "NAME": "Spyder Venom",
+    "NAME": "Павучий яд",
     "DESCRIPTIONS": [
-      "Gain #b1 #yEnvenom."
+      "Даёт #b1 #yОтравленного #yклинка."
     ]
   },
 
   "AntidotePotion": {
-    "NAME": "Antidote",
+    "NAME": "Антидот",
     "DESCRIPTIONS": [
-      "Remove all #bPoison #bFrail #bWeakness and #bVulnerable and heal for each point removed."
+      "Потеряйте ВЕСь #bЯд, #bХрупкость, #bСлубость и #bУязвимость и восполните #yОЗ за каждую потерянную единицу."
     ]
   }
 

@@ -1,13 +1,13 @@
 {
   "theJungle:Jungle": {
     "TEXT": [
-      "The Jungle",
-      "Act 2"
+      "Джунгли",
+      "Акт 2"
     ]
   },
 
   "theJungle:DysenteryEasterEgg" :
   {
-    "TEXT": [ "You have died of dysentery." ]
+    "TEXT": [ "Вы умерли от дизентерии." ]
   }
 }

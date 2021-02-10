@@ -24,7 +24,7 @@
     "FLAVOR": "To Snecko's #0-3 fan."
   },
   "theJungle:WildMango": {
-    "NAME": "Wild Mango",
+    "NAME": "Дикое манго",
     "FLAVOR": "A succulent fruit grown within the spire, not meant to be consumed by the untainted.",
     "DESCRIPTIONS": [
       "Upon pickup, raise your Max HP by #b",
@@ -32,7 +32,7 @@
     ]
   },
   "theJungle:WildStrawberry": {
-    "NAME": "Wild Strawberry",
+    "NAME": "Дикая клубника",
     "FLAVOR": "A delicious fruit tainted ever so slightly by the blight.",
     "DESCRIPTIONS": [
       "Upon pickup, raise your Max HP by #b",
@@ -41,7 +41,7 @@
     ]
   },
   "theJungle:WildPear": {
-    "NAME": "Wild Pear",
+    "NAME": "Дикая груша",
     "FLAVOR": "Not even this fruit was spared from the blight.",
     "DESCRIPTIONS": [
       "Upon pickup, raise your Max HP by #b",

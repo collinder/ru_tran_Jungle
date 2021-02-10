@@ -1,33 +1,33 @@
 {
   "theJungle:ForkInTheRoad": {
-    "NAME": "Fork in the Road",
+    "NAME": "Распутье на пути",
     "DESCRIPTIONS": [
-      "You continue on your journey through the spire.\n NL After a long trek, you come upon a fork in the road.\n\n NL NL There is a signpost, but you can't make out the writing.\n\n NL  NL To your left you spot the outline of #btall #bbuildings in the distance, while the path to the right shows #ggrass and #gtrees."
+      "Вы продолжаете путешествие через шпиль.\n NL После длинного пути, вы приходите к распутью на пути.\n\n NL NL Тут стоит дорожный знак, но вы не можете разобрать надписи.\n\n NL  NL Слева вы видите далекие силуэты #bвысоких #bзданий, а на пути справа виднеются #gтрава и #gдеревья."
     ],
     "OPTIONS": [
       ".",
-      "[Go Left] Go to ",
-      "[Go Right] Go to "
+      "[Пойти налево] Пойти на ",
+      "[Пойти направо] Пойти на "
     ]
   },
   "theJungle:River": {
-    "NAME": "Spirit River",
+    "NAME": "Духовная река",
     "DESCRIPTIONS": [
-      "Lost and thirsty, you are pleasantly surprised by a river running across your path. However, a cautious taste of the water reveals a suspicious taste...",
+      "Потерянный и жаждущий, вы are pleasantly surprised by a river running across your path. However, a cautious taste of the water reveals a suspicious taste...",
       "Drinking the water, you initially feel ~refreshed~ , however, you soon feel ~unwell~ from drinking the tainted water.",
       "Not wanting to take a risk, you ford the river and move on."
     ],
     "OPTIONS": [
       "[Drink] #gRemove #g",
       " #gcards #gfrom #gyour #gdeck. #rObtain #rSpirit #rDisease.",
-      "[Leave]",
+      "[Уйти]",
       "Select ",
       " Cards to Remove.",
       "Confirm Cards to Remove"
     ]
   },
   "theJungle:ShamanCauldron": {
-    "NAME": "A Mysterious Cauldron",
+    "NAME": "Таинственный котел",
     "DESCRIPTIONS": [
       "As you trudge through the jungle you spot a cave with faint green smoke pouring out.\n When you enter, you spot a lone figure wearing traditional shaman's attire crouching on the floor beside a bubbling cauldron.\n Rocking back and forth, he looks up at you, letting you catch a glimpse of green skin.\n NL \" #y@KIKIKIKIKI@ you MUST try my latest brew, I've made a delicious potion for you!\n NL I'm missing #bone #bkey #bingredient you see, either your #gpotions or your #rblood... what will it be?\"",
       "You cautiously extend your arm and the shaman eagerly grabs it and holds it over the cauldron. \n NL NL #r@SLICE@ NL NL \n The shaman cackles as the brew turns into a murky brown color.\n The figure leans forward and his long tongue slithers out and tastes it.\n He @shudders.@ NL NL \" #y@PEEEEEERFECT@ \"",
@@ -38,13 +38,13 @@
     "OPTIONS": [
       "[Extend Arm] #rLose #r8 #rHP. #gFill #gall #gpotion #gslots.",
       "[Give Potions] #rLose #rall #rpotions. #gFill #gall #gpotion #gslots",
-      "[Leave]",
+      "[Уйти]",
       "[Fill Potion Slots]",
       "[Continue]"
     ]
   },
   "theJungle:SneckoCultEvent": {
-    "NAME": "Cult of The Snecko",
+    "NAME": "Культ Змекко",
     "DESCRIPTIONS": [
       "You hear the @joyful@ laughter of children playing. Lurking behind two trees, you catch a sight that leaves you puzzled: You see #bchildren of the local tribe playing with small green reptils. They are running around a rounded stone altar where a #bmasked #bpriest is preparing some kind a ritual involving a big white sphere. NL It seems like nobody here would harm you, with these children running around... NL Where should you go?",
       "You walk straight to the altar in the center. NL NL Something about this sphere irritates you... NL The priest turns to you, singing loudly with a high pitch: #g~\"Aall~ #g~hai-iil~ #g~to~ #g~Snecko!\"~ NL You realize that the sphere in his hands is actually an exceptionally large eye. It gazes at you with an immense power, pulling your mind in. ~It~ ~is~ ~hard~ ~to~ ~resist...~ NL #g@\"Aaall@ #g@hai-iiiil@ #g@to@ #g@Snecko!\"@ NL No, that wasn't you who just sang along, right?",
@@ -55,7 +55,7 @@
       "[Priest] #bRandomize #bthe #bcost #bof #ba #bcard #bin #byour #bdeck #bpermanently.",
       "[Children] #gObtain #ga #gPet #gSnecko.",
       "[Leave] Thanks!",
-      "[Leave]",
+      "[Уйти]",
       "Pick a card to randomize"
     ]
   },
@@ -72,7 +72,7 @@
       "[Attack] #gGain #g",
       " #gGold. #rTake #r",
       " #rdamage.",
-      "[Leave]"
+      "[Уйти]"
     ]
   },
   "theJungle:ExcessResources": {
@@ -146,7 +146,7 @@
       "[Claim Prize] ",
       " #gGain #g%d #gGold.",
       " #rLose #r%d #rHP.",
-      "[Leave]",
+      "[Уйти]",
 
       "[Aπ] ",
       "[Bπ] ",

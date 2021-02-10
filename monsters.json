@@ -154,7 +154,7 @@
 		"DIALOG": ["Jungle Vines"]
 	},
 	"theJungle:MamaSnecko": {
-		"NAME": "Mama Snecko",
+		"NAME": "Мама Змекко",
 		"MOVES": ["Lay Eggs","Glare","Tail Whip","Bite","Furious Attack"],
 		"DIALOG": ["~Hissssss...~"]
 	},
