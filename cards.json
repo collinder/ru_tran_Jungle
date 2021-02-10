@@ -1,0 +1,35 @@
+{
+  "theJungle:PetSnecko": {
+    "NAME": "Pet Snecko",
+    "DESCRIPTION": "Draw !M! card. NL Randomize the cost of all cards in your hand this turn.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Randomize the cost of all cards in your hand this turn."
+  },
+  "theJungle:SS_Clouding": {
+    "NAME": "Clouding Spores",
+    "DESCRIPTION": "Draw 1 card. NL Gain !M! Weak."
+  },
+  "theJungle:SS_Bright": {
+    "NAME": "Bright Spores",
+    "DESCRIPTION": "Draw 1 card. NL Add !M! Dazed into your discard pile."
+  },
+  "theJungle:SS_Clumping": {
+    "NAME": "Clumping Spores",
+    "DESCRIPTION": "Draw 1 card."
+  },
+  "theJungle:SS_Leeching": {
+    "NAME": "Leeching Spores",
+    "DESCRIPTION": "Draw 1 card. NL ALL enemies heal !M! HP."
+  },
+  "theJungle:SS_Toxin": {
+    "NAME": "Toxin Spores",
+    "DESCRIPTION": "Draw 1 card. NL Take !M! damage."
+  },
+  "theJungle:SS_Sloth": {
+    "NAME": "Sloth Spores",
+    "DESCRIPTION": "Draw 1 card. NL Gain !M! Slothful."
+  },
+  "theJungle:Gourd": {
+    "NAME": "Gourd",
+    "DESCRIPTION": "Gain !M! Temporary HP."
+  }
+}
