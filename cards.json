@@ -1,35 +1,35 @@
 {
   "theJungle:PetSnecko": {
-    "NAME": "Pet Snecko",
-    "DESCRIPTION": "Draw !M! card. NL Randomize the cost of all cards in your hand this turn.",
-    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Randomize the cost of all cards in your hand this turn."
+    "NAME": "Ручной Змекко",
+    "DESCRIPTION": "Вы берёте !M! карт. NL Каждая карта в руке имеет случайную стоимость в этом ходу.",
+    "UPGRADE_DESCRIPTION": "Вы берёте !M! карт. NL Каждая карта в руке имеет случайную стоимость в этом ходу."
   },
   "theJungle:SS_Clouding": {
-    "NAME": "Clouding Spores",
-    "DESCRIPTION": "Draw 1 card. NL Gain !M! Weak."
+    "NAME": "Омрачающие споры",
+    "DESCRIPTION": "Вы берёте 1 карту. NL Вы получаете !M! Слабости."
   },
   "theJungle:SS_Bright": {
-    "NAME": "Bright Spores",
-    "DESCRIPTION": "Draw 1 card. NL Add !M! Dazed into your discard pile."
+    "NAME": "Блестящие споры",
+    "DESCRIPTION": "Вы берёте 1 карту. NL Добавляет !M! *Головокружения в стопку сброса."
   },
   "theJungle:SS_Clumping": {
     "NAME": "Clumping Spores",
-    "DESCRIPTION": "Draw 1 card."
+    "DESCRIPTION": "Вы берёте 1 карту."
   },
   "theJungle:SS_Leeching": {
     "NAME": "Leeching Spores",
-    "DESCRIPTION": "Draw 1 card. NL ALL enemies heal !M! HP."
+    "DESCRIPTION": "Вы берёте 1 карту. NL ВСЕ враги восполняют !M! ОЗ."
   },
   "theJungle:SS_Toxin": {
     "NAME": "Toxin Spores",
-    "DESCRIPTION": "Draw 1 card. NL Take !M! damage."
+    "DESCRIPTION": "Вы берёте 1 карту. NL Наносит ВАМ !M! урона."
   },
   "theJungle:SS_Sloth": {
     "NAME": "Sloth Spores",
-    "DESCRIPTION": "Draw 1 card. NL Gain !M! Slothful."
+    "DESCRIPTION": "Вы берёте 1 карту. NL Gain !M! Slothful."
   },
   "theJungle:Gourd": {
-    "NAME": "Gourd",
-    "DESCRIPTION": "Gain !M! Temporary HP."
+    "NAME": "Тыква",
+    "DESCRIPTION": "Даёт !M! Временных ОЗ."
   }
 }
