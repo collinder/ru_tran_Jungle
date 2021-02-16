@@ -1,19 +1,19 @@
 {
 	"theJungle:CassacaraInfoPower": {
-		"NAME": "Carnivorous",
+		"NAME": "Плотоядный",
 		"DESCRIPTIONS": [
 			"Consumes #yCarcass #ySacks, healing HP equal to their HP and gaining #b",
 			" #yStrength for each #yCarcass #ySack."
 		]
 	},
 	"theJungle:DigestPower": {
-		"NAME" : "Digestion",
+		"NAME" : "Переваривание",
 		"DESCRIPTIONS": [
-			"On death or after being attacked #b",
-			" more time, ",
-			" more times, ",
-			" is returned to your hand. NL NL At the end of your turn, ",
-			" is #rExhausted."
+			"Погибав или будучи атакованым #b",
+			" раз(а), возвращает ",
+			" раз(а), возвращает ",
+			" обратно к вам в руку. NL В конце вашего хода, ",
+			" #rСжигается."
 		]
 	},
 	"theJungle:SlothfulPower": {
@@ -50,9 +50,9 @@
 		]
 	},
 	"theJungle:SwingingTrapPower": {
-		"NAME": "Pendulum Trap",
+		"NAME": "Ловушка-маятник",
 		"DESCRIPTIONS": [
-			" NL NL Whenever you play a card, changes its position. NL Cycles between #rIncoming, #rMidswing, and #gResetting.",
+			" NL NL Меняет свою позицию, когда вы разыгрываете карту. NL Cycles between #rIncoming, #rMidswing, and #gResetting.",
 			"#yPOSITION: ",
 			"#rINCOMING NL Intends to attack during its turn.",
 			"#rMIDSWING NL After you play an #yAttack, take #b",
@@ -68,9 +68,9 @@
 		]
 	},
 	"theJungle:MamaSneckoRevengePower": {
-		"NAME": "Enrage",
+		"NAME": "Бешенство",
 		"DESCRIPTIONS": [
-			"Whenever a #yBaby #ySnecko or #ySnecko #yEgg takes damage, gains #b1 Strength. NL At the end of its turn, loses #b2 Strength (cannot go negative)."
+			"Whenever a #yBaby #ySnecko or #ySnecko #yEgg takes damage, Получает #b1 Силы, когда #yДетеныш #Змекко получает урон. NL В конце своего хода теряет #b2 Силы (не может уйти в минус)."
 		]
 	},
 	"theJungle:TotemRevengeAttackPower": {
@@ -118,17 +118,17 @@
 		]
 	},
 	"theJungle:Pride": {
-		"NAME": "Pride",
+		"NAME": "Гордыня",
 		"DESCRIPTIONS": [
-			"Whenever you play a card, gains #b",
-			" #yStrength this turn."
+			"Получает #b",
+			" #yСилы в этом ходу, когда вы разыгрываете карту."
 		]
     },
 	"theJungle:ObsessionPower": {
-		"NAME": "Obsessive",
+		"NAME": "Одержимость",
 		"DESCRIPTIONS": [
-			"Whenever you play an #yAttack that does not target #rONLY this monster, take #b",
-			" damage."
+			"Получите #b",
+			" урона, когда вы разыгрываете #yАтаку, целью который является не #rТОЛЬКО этот монстр."
 		]
 	},
 	"theJungle:ProtectionPower": {
@@ -146,28 +146,28 @@
 		]
 	},
     "theJungle:Guarded": {
-		"NAME" : "Guarded",
+		"NAME" : "Защищаемый",
 		"DESCRIPTIONS": [
-			"ALL damage this creature takes is reduced by #g80% while there is a #rSpyder in front it."
+			"ВЕСЬ урон, получаемый этим созданием, уменьшен на #g80%, пока перед ним есть #rПавук."
 		]
 	},
     "theJungle:Webbed": {
-		"NAME" : "Webbed",
+		"NAME" : "Запаутиненный",
 		"DESCRIPTIONS": [
-			"Increase the cost of the first card you draw by #b1 this combat.",
-			"Increase the cost of the first #b",
-			" cards you draw by #b1 this combat.",
-            " NL This has affected #b",
-            " cards this turn.",
-            " card this turn."
+			"Увеличивает цену первой взятой карты на #b1 в этом бою.",
+			"Увеличивает цену первых взятых #b",
+			" карт на #b1 в этом бою.",
+            " NL Этот эффект затронул #b",
+            " карт(ы) в этом ходу.",
+            " карт(ы) в этом ходу."
 		]
 	},
 	"theJungle:Incubation": {
-		"NAME" : "Incubation",
+		"NAME" : "Инкубация",
 		"DESCRIPTIONS": [
-			"Hatches into a #yBaby #ySnecko this turn.",
-			"In #b",
-			" turns, hatches into a #yBaby #ySnecko."
+			"Вылупится в #yДетеныша #yЗмекко в этом ходу.",
+			"Через #b",
+			" ходов вылопится в #yДетеныша #yЗмекко."
 		]
 	},
     "theJungle:Mourning": {

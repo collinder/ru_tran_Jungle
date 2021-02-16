@@ -2,7 +2,7 @@
 	"theJungle:Cassacara": {
 		"MOVES": [
 			"Big Bite",
-			"Chew",
+			"Прожевать",
 			"Bottomless Stomach"
 		],
 		"NAME": "Cassacara",
@@ -36,7 +36,7 @@
 	},
 	"theJungle:Flameango": {
 		"MOVES": [
-			"Flame Breath",
+			"Пламенное дыхание",
 			"Incendiary Down"
 		],
 		"NAME": "Flameango",
@@ -164,8 +164,8 @@
 		"DIALOG": [""]
 	},
 	"theJungle:BabySnecko": {
-		"NAME": "Baby Snecko",
-		"MOVES": ["Bite","Glare"],
+		"NAME": "Детеныш Змекко",
+		"MOVES": ["Укус","Взгляд"],
 		"DIALOG": [""]
 	},
 	"theJungle:SneckoCultist": {

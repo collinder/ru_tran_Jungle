@@ -16,9 +16,9 @@
   },
 
   "HauntedGourdPotion": {
-    "NAME": "Haunted Gourd",
+    "NAME": "Тыква с привидениями",
     "DESCRIPTIONS": [
-      "Discover a #ySkill #yPower and #yAttack which cost 0 this turn. Add a random #bCurse and #bSlimed to your hand."
+	"Выберите #b1 из #b3 случ. #yНавыков, #b1 из #b3 случ. #yТалантов и #b1 из #b3 случ. #yАтак В этом ходу они стоят #b0. Добавляет случ. #bПроклятье и #bВ #bслизи в руку."
     ]
   },
 
