@@ -2,8 +2,8 @@
 	"theJungle:CassacaraInfoPower": {
 		"NAME": "Плотоядный",
 		"DESCRIPTIONS": [
-			"Consumes #yCarcass #ySacks, healing HP equal to their HP and gaining #b",
-			" #yStrength for each #yCarcass #ySack."
+			"Сжирает #yМясные #yмешки, восстанавливает ОЗ, равное ОЗ #yМясных #yмешков, и получает #b",
+			" #yСилы за каждый #yМясной #yмешок."
 		]
 	},
 	"theJungle:DigestPower": {
@@ -17,23 +17,23 @@
 		]
 	},
 	"theJungle:SlothfulPower": {
-		"NAME": "Slothful",
+		"NAME": "Лень",
 		"DESCRIPTIONS": [
-			"Negates #b",
-			" buff.",
-			" buffs."
+			"Отменяет #b",
+			" полож. эффект(а).",
+			" полож. эффект(а)."
 		]
 	},
 	"theJungle:TotemStrengthPower": {
-		"NAME" : "Totemic Rage",
+		"NAME" : "Тотемная ярость",
 		"DESCRIPTIONS": [
-			"Whenever a Totem dies, ALL enemies gain #b1 Strength."
+			"ВСЕ враги получают #b1 #yСилы, когда Тотем умирает."
 		]
 	},
 	"theJungle:BlockFromStrengthPower": {
-		"NAME" : "Defensive",
+		"NAME" : "Обороняющий",
 		"DESCRIPTIONS": [
-			"#yStrength increases the amount of #yBlock this enemy provides."
+			"#yСила увеличивает количество #yЗащиты, обеспечиваемой этом врагом."
 		]
 	},
 	"theJungle:TotemHealthLinkPower": {
@@ -44,77 +44,77 @@
 		]
 	},
 	"theJungle:TotemBossImmunityPower": {
-		"NAME" : "Totemic Might",
+		"NAME" : "Тотемная мощь",
 		"DESCRIPTIONS": [
-			"If Totems are still alive, is immune to damage."
+			"Не получает урон, пока Тотемы еще живы."
 		]
 	},
 	"theJungle:SwingingTrapPower": {
 		"NAME": "Ловушка-маятник",
 		"DESCRIPTIONS": [
-			" NL NL Меняет свою позицию, когда вы разыгрываете карту. NL Cycles between #rIncoming, #rMidswing, and #gResetting.",
-			"#yPOSITION: ",
-			"#rINCOMING NL Intends to attack during its turn.",
-			"#rMIDSWING NL After you play an #yAttack, take #b",
-			" damage.",
-			"#gRESETTING NL Is harmless."
+			" NL NL Меняет свою позицию, когда вы разыгрываете карту. NL Меняет состояния между: #rПРИБЛИЖЕНИЕ, #rВРЕЗАНИЕ, and #gВОЗВРАЩЕНИЕ.",
+			"#yПОЗИЦИЯ: ",
+			"#rПРИБЛИЖЕНИЕ NL Собирается атаковать на своем ходу.",
+			"#rВРЕЗАНИЕ NL Получите #b",
+			" урона, когда вы разыграете #Атаку.",
+			"#gВОЗВРАЩЕНИЕ NL Безобиден."
 		]
 	},
 	"theJungle:FungalInfectionPower": {
-		"NAME": "Fungal Infection",
+		"NAME": "Грибковая инфекция",
 		"DESCRIPTIONS": [
-			"At the end of your turn, add random #rSpore #yStatus cards on top of your draw pile equal to #yFungal #yInfection's remaining duration (up to #b3 maximum). NL Lasts #b",
-			" more turns."
+			"Добавляет случ. #rСпоры ( #rСтатусы ) на верх стопки добора столько, сколько у вас #yГрибковой #yинфекции (до #b3 максимально) в конце вашего хода. NL Продлится #b",
+			" ходов."
 		]
 	},
 	"theJungle:MamaSneckoRevengePower": {
 		"NAME": "Бешенство",
 		"DESCRIPTIONS": [
-			"Whenever a #yBaby #ySnecko or #ySnecko #yEgg takes damage, Получает #b1 Силы, когда #yДетеныш #Змекко получает урон. NL В конце своего хода теряет #b2 Силы (не может уйти в минус)."
+			"Получает #b1 Силы, когда #yДетеныш #yЗмекко или #yЯйцо #yЗмекко получает урон. NL В конце своего хода теряет #b2 Силы (не может уйти в минус)."
 		]
 	},
 	"theJungle:TotemRevengeAttackPower": {
-		"NAME": "Totem Counter",
+		"NAME": "Тотемная контратака",
 		"DESCRIPTIONS": [
-			"Instantly attacks whenever you play a card that targets ALL enemies or multiple random enemies.",
-			"Cannot counterattack this turn due to being #yStunned."
+			"Мгновенно атакует, когда вы разыгрываете карту, целью которой являются ВСЕ враги или несколько случайных врагов.",
+			"Не контратакует в этом ходу, потому что #yОглушен."
 		]
 	},
 	"theJungle:InfectiousSporesPower": {
-		"NAME": "Infectious Spores",
+		"NAME": "Инфекционные споры",
 		"DESCRIPTIONS": [
-			"On death, applies #b",
-			" #yFungal #yInfection."
+			"Погибая, накладывает на вас #b",
+			" #yГрибковой #yинфекции."
 		]
 	},
 	"theJungle:PuffballPower": {
-		"NAME": "Puffball",
+		"NAME": "Дождевик",
 		"DESCRIPTIONS": [
-			"Adds a random #rSpore #yStatus card into your draw pile each time it hits."
+			"Добавляет случ. #rСпору ( #yСтатус ) в стопку удара при каждой своей атаке."
 		]
 	},
 	"theJungle:RegenerativeSlime": {
-		"NAME": "Regenerative Slime",
+		"NAME": "Регенерирующий слизень",
 		"DESCRIPTIONS": [
-			"Whenever you play a #ynon-Attack card, heals #b",
-			" HP."
+			"Восполняет #b",
+			" ОЗ, когда вы разыгрываете #yне-Атаку."
 		]
 	},
 	"theJungle:RandomizePower": {
-		"NAME": "Selective Confusion",
+		"NAME": "Избирательное замешательство",
 		"DESCRIPTIONS": [
-			"Randomize the cost of the first #b2 cards you draw next turn.",
-			"Randomize the cost of the first #b2 cards you draw for the next ",
-			" turns."
+			"Первые #b2 взятые карты имеют случайную стоимость в следующем ходу.",
+			"Первые #b2 взятые карты имеют случайную стоимость следующие ",
+			" хода(ов)."
 		]
 	},
 	"theJungle:CautiousPower": {
-		"NAME" : "Cautious",
+		"NAME" : "Осторожность",
 		"DESCRIPTIONS": [
-			"After receiving attack damage #b",
-			" more time this turn, becomes #yStunned.",
-			" more times this turn, becomes #yStunned.",
-			"This enemy's caution is broken."
+			"#yОглушается, если урон от атак получен #b",
+			" раза в этом ходу.",
+			" раза в этом ходу.",
+			"Осторожность этого врага - уничтожена."
 		]
 	},
 	"theJungle:Pride": {
@@ -125,24 +125,24 @@
 		]
     },
 	"theJungle:ObsessionPower": {
-		"NAME": "Одержимость",
+		"NAME": "Одержимый",
 		"DESCRIPTIONS": [
 			"Получите #b",
 			" урона, когда вы разыгрываете #yАтаку, целью который является не #rТОЛЬКО этот монстр."
 		]
 	},
 	"theJungle:ProtectionPower": {
-		"NAME": "Protective",
+		"NAME": "Прикрывающий",
 		"DESCRIPTIONS": [
-			"Whenever you play an #yAttack that does not target #rONLY this monster, ALL OTHER enemies gain #b",
-			" #yBlock."
+			"ВСЕ ОСТАЛЬНЫЕ враги получают #b",
+			" #yЗащиты, когда вы разыгрываете #yАтаку, целью который является не #rТОЛЬКО этот монстр.."
 		]
 	},
 	"theJungle:EnergeticPower": {
-		"NAME": "Energetic",
+		"NAME": "Энергичный",
 		"DESCRIPTIONS": [
-			"Whenever you play an #yAttack that does not target #rONLY this monster, ALL OTHER enemies gain #b",
-			" #yStrength."
+			"ВСЕ ОСТАЛЬНЫЕ враги получают #b",
+			" #yСилы, когда вы разыгрываете #yАтаку, целью который является не #rТОЛЬКО этот монстр.."
 		]
 	},
     "theJungle:Guarded": {
@@ -171,7 +171,7 @@
 		]
 	},
     "theJungle:Mourning": {
-		"NAME" : "[DEPRECATED] Mourning",
+		"NAME" : "[DEPRECATED] Скорбь",
 		"DESCRIPTIONS": [
 			"Whenever this enemy loses #gGuard, it becomes stunned and loses all its #yArtifact."
 		]

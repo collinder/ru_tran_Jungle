@@ -17,16 +17,16 @@
     "DESCRIPTION": "Вы берёте 1 карту."
   },
   "theJungle:SS_Leeching": {
-    "NAME": "Leeching Spores",
+    "NAME": "Кровососущие споры",
     "DESCRIPTION": "Вы берёте 1 карту. NL ВСЕ враги восполняют !M! ОЗ."
   },
   "theJungle:SS_Toxin": {
-    "NAME": "Toxin Spores",
+    "NAME": "Токсичные споры",
     "DESCRIPTION": "Вы берёте 1 карту. NL Наносит ВАМ !M! урона."
   },
   "theJungle:SS_Sloth": {
-    "NAME": "Sloth Spores",
-    "DESCRIPTION": "Вы берёте 1 карту. NL Gain !M! Slothful."
+    "NAME": "Ленивые споры",
+    "DESCRIPTION": "Вы берёте 1 карту. NL Вы получаете !M! Лени."
   },
   "theJungle:Gourd": {
     "NAME": "Тыква",

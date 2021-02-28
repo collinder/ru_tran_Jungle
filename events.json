@@ -13,139 +13,139 @@
   "theJungle:River": {
     "NAME": "Духовная река",
     "DESCRIPTIONS": [
-      "Потерянный и жаждущий, вы are pleasantly surprised by a river running across your path. However, a cautious taste of the water reveals a suspicious taste...",
-      "Drinking the water, you initially feel ~refreshed~ , however, you soon feel ~unwell~ from drinking the tainted water.",
-      "Not wanting to take a risk, you ford the river and move on."
+      "Потерянный и жаждущий, вы приятно удивлены рекой, которую видите на своем пути. Однако, когда вы осторожно пробуете воду, у неё оказывается весьма подозрительный вкус...",
+      "Выпив воду, вы вначале чувствуете себя ~освеженным~ , впрочем, скоро вы ощущаете сьея ~намного хуже~ из-за этой заражённой воды.",
+      "Не желая рисковать, вы переходите реку и продолжаете путь."
     ],
     "OPTIONS": [
-      "[Drink] #gRemove #g",
-      " #gcards #gfrom #gyour #gdeck. #rObtain #rSpirit #rDisease.",
+      "[Выпить] #gУдалить #g",
+      " #gкарт #gиз #gколоды. #rПолучите #rНедуг #rдухов.",
       "[Уйти]",
-      "Select ",
-      " Cards to Remove.",
-      "Confirm Cards to Remove"
+      "Выберите ",
+      " карты, которые хотите Удалить.",
+      "Подтвердите карты, которые хотите Удалить."
     ]
   },
   "theJungle:ShamanCauldron": {
     "NAME": "Таинственный котел",
     "DESCRIPTIONS": [
-      "As you trudge through the jungle you spot a cave with faint green smoke pouring out.\n When you enter, you spot a lone figure wearing traditional shaman's attire crouching on the floor beside a bubbling cauldron.\n Rocking back and forth, he looks up at you, letting you catch a glimpse of green skin.\n NL \" #y@KIKIKIKIKI@ you MUST try my latest brew, I've made a delicious potion for you!\n NL I'm missing #bone #bkey #bingredient you see, either your #gpotions or your #rblood... what will it be?\"",
-      "You cautiously extend your arm and the shaman eagerly grabs it and holds it over the cauldron. \n NL NL #r@SLICE@ NL NL \n The shaman cackles as the brew turns into a murky brown color.\n The figure leans forward and his long tongue slithers out and tastes it.\n He @shudders.@ NL NL \" #y@PEEEEEERFECT@ \"",
-      "You walk forward and dump your potions into the cauldron. \n The shaman cackles as the liquid turns into a murky brown color, stirring it quickly.\n The figure leans forward and his tongue, long and pink, ~slithers~ out and tastes it.\n He @shudders.@ NL NL \" #y@PEEEEEERFECT@ \"",
-      "You turn around and walk away. He's clearly too obsessed with potions.",
-      "You fill up your potion slots. Hopefully you made the right choice."
+      "Когда вы еле ползете сквозь джунгли вы примечаете пещеру с вылетющим наружу тусклым зеленым дымом.\n Зайдя в пещеру, вы видите одинокую фигур, одетую в традиционный наряд шамана, сидящую на полу рядом с булькающим котлом.\n Раскачиваясь взад и вперед, он смотрит на вас снизу, позволив вам заметить проблеск зеленой кожи.\n NL \" #y@ХИХИХИХИХИ@ ты ДОЛЖЕН попробовать мою последнюю настойку, Я сделал тебе восхитительное зелье!\n NL Видишь ли, не хватает только #bодного #bключевого #bингридиента, либо твоих #gзелий, либо твоей #rкрови... и что же ты выберешь?\"",
+      "Вы осторожно вытягиваете свою руку и шаман нетерпеливо хватает и держит её над котлом. \n NL NL #r@ПОРЕЗ@ NL NL \n Шаман ржет, пока похлебка меняет цвет на мутный коричневый.\n Фигура наклоняется вперед и его длинный язык вытягивается и пробует жидкость.\n Он @содрогается.@ NL NL \" #y@ИДЕАААЛЬНО@ \"",
+	"Вы идете вперед и вываливаете зелья в котел. \n Шаман ржет, пока похлебка меняет цвет на мутный коричневый  , и быстро её мешает.\n Фигура наклоняется вперед и его язык, длинный и фиолетовый, ~вытягивается~ и пробует жидкость.\n Он @содрогается.@ NL NL \" #y@ИДЕАААЛЬНО@ \"",
+      "Вы оборачиваетесь и уходите. Он явно чересчур одержим зельями.",
+      "Вы заполняете места для зелий. Вы надеетесь, что сделали верный выбор."
     ],
     "OPTIONS": [
-      "[Extend Arm] #rLose #r8 #rHP. #gFill #gall #gpotion #gslots.",
-      "[Give Potions] #rLose #rall #rpotions. #gFill #gall #gpotion #gslots",
+      "[Вытянуть руку] #rПотерять #r8 #rОЗ. #gЗаполнить #gвсе #gместа #gдля #gзелий.",
+      "[Отдать зелья] #rПотерять #rвсе #rзелья. #gЗаполнить #gвсе #gместа #gдля #gзелий.",
       "[Уйти]",
-      "[Fill Potion Slots]",
-      "[Continue]"
+      "[Заполнить места для зелий]",
+      "[Продолжить]"
     ]
   },
   "theJungle:SneckoCultEvent": {
     "NAME": "Культ Змекко",
     "DESCRIPTIONS": [
-      "You hear the @joyful@ laughter of children playing. Lurking behind two trees, you catch a sight that leaves you puzzled: You see #bchildren of the local tribe playing with small green reptils. They are running around a rounded stone altar where a #bmasked #bpriest is preparing some kind a ritual involving a big white sphere. NL It seems like nobody here would harm you, with these children running around... NL Where should you go?",
-      "You walk straight to the altar in the center. NL NL Something about this sphere irritates you... NL The priest turns to you, singing loudly with a high pitch: #g~\"Aall~ #g~hai-iil~ #g~to~ #g~Snecko!\"~ NL You realize that the sphere in his hands is actually an exceptionally large eye. It gazes at you with an immense power, pulling your mind in. ~It~ ~is~ ~hard~ ~to~ ~resist...~ NL #g@\"Aaall@ #g@hai-iiiil@ #g@to@ #g@Snecko!\"@ NL No, that wasn't you who just sang along, right?",
-      "One of the children almost discovered you by searching for a hideout. You suggest to the tribal children that you could play #phide-and-seek with them. NL \"Deal, and you will win a prize if you find all of us!\" NL NL Well, you are a bit older than them, but you don't know this place as well as they do... After a while of searching, the priest hints you to a stone plate. There you find all of them giggling together. The oldest one hands a small animal as prize to you.",
-      "You know the drill. NL NL #g~Snecko~ is not your friend, and neither are these members of this tribe where even the children seem to worship it."
+      "Вы слышите поблизости @веселый@ смех играющий детей. Скрывшись перед двумя деревьями, вы ловите взглядом озадачивающее вас зрелище: Вы видите #bдетей местного племени, играющих с маленькими зелеными рептилиями. Они бегают вокруг скругленного каменного алтаря, где #bсвященник #bв #bмаске подготавливает какой-то ритуал, включающий большую белую сферу. NL Похоже, никто здесь вам не навредит, пока эти дети бегают повсюду... NL Куда вы направитесь?",
+      "Вы направляетесь напрямую к алтарю в центре. NL NL Что-то в этой сфере нервирует вас... NL Священник поворачивается к вам, напевая громко высоким голосом: #g~\"Сслаава~ #g~вел-ликой~ #g~Змекко!\"~ NL Вы понимаете, что сфера в его руках на самом деле невероятно огромный глаз. Оно взирает на вас с безмерной мощью, затягивая ваш разум. ~Сложно~ ~сопротивляться...~ NL #g@\"Сллаваа@ #g@вели-икой@ #g@Змекко!\"@ NL Нет, это же не вы только что подпевали, правда?",
+      "Один из детей заметил вас, когда искал укрытие. Вы предлагаете детям из племени сыграть в #pпрятки с ними. NL \"Договорились, и ты выиграешь приз, если найдёшь всех!\" NL NL Что ж, вы слегка старше их, но не знаете это место настолько же хорошо, как они... После долгих поисков, священник намекает на камменую тарелку. Там вы их всех, хихикающих вместе, и находите. Старший даёт вам маленькое животное, как приз.",
+      "Вы знаете, что делать. NL NL #g~Змекко~ не ваш друг, и эти жители племени, где даже дети поклоняются ей - тоже."
     ],
     "OPTIONS": [
-      "[Priest] #bRandomize #bthe #bcost #bof #ba #bcard #bin #byour #bdeck #bpermanently.",
-      "[Children] #gObtain #ga #gPet #gSnecko.",
-      "[Leave] Thanks!",
+      "[Священник] #bСделать #bцену #bкарты #bв #bколоде #bслучайной #bнавсегда.",
+      "[Дети] #gПолучить #gРучного #gЗмекко.",
+      "[Уйти] Спасибо!",
       "[Уйти]",
-      "Pick a card to randomize"
+      "Выберите карту, цену которой хотите сделать случайной"
     ]
   },
   "theJungle:SneckoIdol": {
-    "NAME": "Snecko Live!?",
+    "NAME": "Змекко вживую!?",
     "DESCRIPTIONS": [
-      "#g~SNECKO~ #g~SNECKO~ #g~SNECKO~ NL @Thunderous@ applause breaks out as a girl in a Snecko onesie finishes a song and dance on stage. NL \"That was 'You Confuse My Heart'\"! NL #g~ENCORE~ #g~ENCORE~ #g~ENCORE~ NL Maybe it wouldn't be such a bad thing to stick around?",
-      "You decide to stay for the #g~jammin'~ tunes. The energetic concert @flows@ into your veins and you can't help but stay around to gather your newfound obsession's autograph. NL \" #g@Hey!@ \", the girl in the Snecko Onesie beams at you. \"Here's my autograph!\" NL You take it and walk off knowing you just spent time #robsessing over an idol.",
-      "Overcome with #r@rage@ from seeing another Snecko, you draw your weapon and charge towards the stage. The #r@HORDE@ of idol fanatics push you back and don't let you pass. NL On the bright side, they dropped some Snecko merch you pawn off to fans who couldn't get into the audience.",
-      "Deciding this was not worth your time, you leave the concert alone."
+      "#g~ЗМЕККО~ #g~ЗМЕККО~ #g~ЗМЕККО~ NL @Оглушительные@ апплодисменты раздуются, пока девочка комбинезоне Змекоо поёт и танцует на сцене. NL \"Это было 'Ты озадачиваешь моё сердце'\"! NL #g~БИС~ #g~БИС~ #g~БИС~ NL Может, будет неплохо остаться и посмотреть?",
+      "Вы решаете остаться for the #g~jammin'~ tunes. Энергичный концерт @поглащает@ вас и вы не можете не остаться, чтобы взять автограф вашей новой страсти. NL \" #g@Хей!@ \", девочка в комбинезоне Змекко улыбается вам. \"Вот и мой автограф!\" NL Вы берёте его и уходите, зная, что вы только что были #rодержимы идолом.",
+      "Одолеваемые #r@яростью@ от вида очередного Змекко, вы достаёте оружие и устремляетесь к сцене. #r@ОРДА@ фанатов идола отталкивает и не позволяет вам пройти. NL С другой стороны, они уронили немного мерча Змекко, который вам удаются толкнуть фанатам, не попавшим в аудиторию.",
+      "Решив, что это бессмысленная трата времени, вы покидаете концерт."
     ],
     "OPTIONS": [
-      "[Stay] #gObtain #gSnecko #gAutograph. #rBecome #rCursed #r- #rShame.",
-      "[Attack] #gGain #g",
-      " #gGold. #rTake #r",
-      " #rdamage.",
+      "[Остаться] #gПолучить #gАвтограф #gЗмекко. #rПолучить #rПроклятье #r- #rСтыд.",
+      "[Атаковать] #gПолучить #g",
+      " #gЗолота. #rПотерять #r",
+      " #rОЗ.",
       "[Уйти]"
     ]
   },
   "theJungle:ExcessResources": {
-    "NAME": "Nature's Temptation",
+    "NAME": "Природное соблазнение",
     "DESCRIPTIONS": [
-      "After wandering through the jungle for what feels like an eternity, you come across a clearing with #pfruits neatly arrayed in the middle. NL NL You are #r@hungry@ from stumbling through this blasted place and would #p~love~ to eat some despite how bad of an idea that would be.",
-      "You #p@MUST@ have some. You eat one, then another and when you've had your fill, just one more is all you need. NL Only 3 fruits remain: NL NL A somewhat tainted #rStrawberry looking like it would #rhurt to eat. NL A ~juicy~ #gPear that makes you #ywant #yto #ytake #ya #ybreak just looking at it. NL A #yMango which is so big that it would #ySlow you down.",
-      "It would be foolish to partake in this obvious trap. A lone #rberry lies in a corner, it will suffice.",
-      "You take that last #ydelectable #ytreat and put it in your mouth. It #r@sizzles@ and #r~burns~ on its way down.",
-      "Nobody could deny such a #p@gift@ in your circumstances. With each bite, you feel your motivation being #y~sapped~ .",
-      "Where do you even start? The fruit seems to bear more of its #r~delicious~ #r~flesh~ every time you look at it. NL NL ~...~ NL NL When you finally finish, you feel stuffed and #yslow ."
+      "После бесконечного путешествия сквозь джунгли, вы натыкаетесь на прогалину с #pфруктами, аккуратно разложенными в середине. NL NL Вы очень #r@проголадались@ от путешествия по этому чертовому месту и были бы очень #p~счастливы~ поесть, какой бы плохой не была бы эта идея.",
+      "Вы #p@ДОЛЖНЫ@ съесть что-то. Вы съедаете фрукты, потом ещё один и когда вы насытились, вы хотите съесть ещё один. NL Только 3 фрукта осталось: NL NL Слегка подпорченная #rКлубника, похоже, что она #rнавредит, если её съесть. NL ~Сочная~ #gГруша, которая одним своим видом вызывает #yжелание #yотдохнуть. NL #yМанго, настолько большое, что наверняка #yЗамедлит вас.",
+      "Было бы глупо угодить в настолько очевидную ловушку. Одна #rягодка лежит в углу, этого хватит.",
+      "Вы забираете это #yвосхитительное #yугощение и помещаете его в рот. Оно #r@шипит@ и #r~жжет~, пока спускается вниз.",
+      "Никто не способен отказаться от такого #p@подарка@ на вашем месте. С каждым укусом, вы чувствуете, как ваша мотивация #y~падает~.",
+      "С чего бы начать? Такое ощущение, что #r~вкуснющая~ #r~мякоть~ у фрукта увеличивается на ваших глазах. NL NL ~...~ NL NL Вы чувствуете себя объевшимся и #yмедленным к момету, когда закончили с фруктом."
     ],
     "OPTIONS": [
-      "[Give In] Give in to your desires.",
-      "[Resist] A little berry will suffice. #gHeal #g%d #gHP.",
-      "Continue on with your adventure.",
-      "[Eat] #gObtain #rWild #rStrawberry",
-      "[Consume] #gObtain #gWild #gPear",
-      "[Devour] #gObtain #yWild #yMango"
+      "[Сдаться] Сдаться своим желаниям.",
+      "[Сопротивляться] Небольшой ягодки хватит. #gВосполнить #g%d #gОЗ.",
+      "Продолжить ваш путь.",
+      "[Съесть] #gПолучить #rДикую #rклубнику",
+      "[Поглодить] #gПолучить #gДикую #gгрушу",
+	"[Пожрать] #gПолучить #yДикое #yманго"
     ]
   },
   "theJungle:GremlinQuiz": {
-    "NAME": "Gremlin Quiz Show",
+    "NAME": "Викторина гремлина",
     "DESCRIPTIONS": [
-      "\" LIGHTS. CAMERA. #p@ACTION!@ \" NL NL A gremlin with a wide smile approaches you. NL NL \" It's time again for the Spire-Famous Gremlin Quiz Show! I've got questions for you, here's your chance to win some #gfabulous #gprizes! NL Are you ~R~ ~E~ ~A~ ~D~ ~Y~ ~?~ Of course you are! \"",
-      "\" Please wait while we tally your score... NL NL You got #b%d #bout #bof #b%d questions right! NL ",
-      "#gYou #gdid #ggreat! NL Here is your prize. \"",
-      "#rHow #rdisappointing... \"",
-      "Do better next time. \"",
-      "What is the name of the Bronze Automaton's biggest attack?",
+      "\" СВЕТ. КАМЕРА. #p@МОТОР!@ \" NL NL Гремлин с широкой улыбкой приближается к вам. NL NL \" Настало время для еще одной известной по всему Шпилю викторины гремлина! Я подготовил для тебя вопросы, это твой шанс выиграть #gневероятный #gпризы! NL Ты ~Г~ ~О~ ~Т~ ~О~ ~В~ ~?~ Конечно готов! \"",
+      "\" Секундочку, пока мы подсчитываем ваш счет... NL NL #b%d #bиз #b%d ответов верны! NL ",
+      "#gУ #gтебя #gпрекрасно #gполучилось! NL Вот и твой приз. \"",
+      "#rКак #rразочаровывающе... \"",
+      "Постарайся в следующий раз. \"",
+      "Как называется самая большая атака Бронзового Автоматона?",
       "",
-      "Identify the enemies in this picture.",
+      "Опознайте врагов на этой картинке.",
       "theActAssets/images/events/quiz/identify1.png",
-      "Identify the enemies in this picture.",
+      "Опознайте врагов на этой картинке.",
       "theActAssets/images/events/quiz/identify2.png",
-      "In what order (from left to right) do the Red Mask Bandits appear?",
+      "В каком порядке (слева направо) появляются появлются бандиты Красной маски?",
       "images/events/redMaskTomb.jpg",
-      "What is NOT a card for The Silent?",
+      "Что НЕ является картой Безмолвной?",
       "",
-      "What card is this?",
+      "Что это за карта?",
       "theActAssets/images/events/quiz/card1.png",
-      "Which of these enemies can make you weak?",
+      "Какой из этих врагов может наложить на вас Слабость?",
       "",
-      "Which of these enemies holds their weapon in their left hand?",
+      "Какой из этих врагов удерживает оружие в левой руке?",
       "",
-      "How many tentacles does the Spire Growth have?",
+      "Сколько тентаклей у Отростка Шпиля?",
       "",
-      "Match this card art with its beta art.",
+      "Какая у этой карты бета версия?",
       "theActAssets/images/events/quiz/card2.png",
-      "What power is this?",
+      "Что это за Талант?",
       "theActAssets/images/events/quiz/power1.png",
-      "What power is this?",
+мм      "Что это за Талант?",
       "theActAssets/images/events/quiz/power2.png",
-      "What is missing in this image?",
+      "Чего не хватает на этой картинке?",
       "theActAssets/images/events/quiz/card3.png",
-      "By how much does your max HP increase if you get all three fruits?",
+      "На сколько увеличится ваше Макс. ОЗ, если вы получите все 3 фрукта?",
       "",
-      "Name two curses that are shown in this image.",
+      "Назовите два Проклятья, показанные на этой картинке.",
       "theActAssets/images/events/quiz/curses1.png",
-      "What effect does Ascension 16 have?",
+      "Что делает шестнадцатое Возвышение?",
       "",
-      "What is the rarity of the relic in this picture?",
+      "Какая редкость реливии на этом рисунке?",
       "theActAssets/images/events/quiz/relic1.png",
-      "What is the rarity of the relic in this picture?",
+      "Какая редкость реливии на этом рисунке?",
       "theActAssets/images/events/quiz/relic2.png",
-      "What is the rarity of the relic in this picture?",
+      "Какая редкость реливии на этом рисунке?",
       "theActAssets/images/events/quiz/relic3.png"
     ],
     "OPTIONS": [
-      "[Begin Quiz]",
-      "[Claim Prize] ",
-      " #gGain #g%d #gGold.",
-      " #rLose #r%d #rHP.",
+      "[Начать викторину]",
+      "[Получить приз] ",
+      " #gПолучить #g%d #gЗолота.",
+      " #rПотерять #r%d #rОЗ.",
       "[Уйти]",
 
       "[Aπ] ",
@@ -153,100 +153,100 @@
       "[Cπ] ",
       "[Dπ] ",
 
-      "Sweeping Beam",
-      ">Hyper Beam",
-      "Hyper Blast",
-      "Disintegrate",
+      "Сметающий луч",
+      ">ГИПЕРЛУЧ",
+      "ГИПЕРЛУЧ",
+      "Дезинтеграция",
 
-      ">Chosen, Snecko, Darkling",
-      "Fungi Beast, Chosen, Spike Slime",
-      "Snecko, Acid Slime, Cultist",
-      "Awakened One, Louse, Snake Plant",
+      ">Избранный, Змекко, Темныш",
+      "Грибной паразит, Избранный, Шипастый слизень",
+      "Змекко, Едкий слизень, Культист",
+      "Пробуждённый, Вошь, Змеецвет",
 
-      ">The Maw, Hexaghost, The Transient",
-      "Donu, Spire Growth, The Maw",
-      "Jaw Worm, Donu, The Guardian",
-      "Writhing Mass, Fungi Beast, Shelled Parasite",
+      ">Пасть, Гексадух, Преходящий",
+      "Дону, Отросток Шпиля, Пасть",
+      "Зубастый червь, Дону, Страж",
+      "Извивающаяся масса, Грибной паразт, Панцирный паразит",
 
-      ">Pointy, Romeo, Bear",
-      "Bear, Pointy, Romeo",
-      "Romeo, Pointy, Bear",
-      "Pointy, Bear, Romeo",
+      ">Колючка, Ромео, Медведь",
+      "Медведь, Колючка, Ромео",
+      "Ромео, Колючка, Медведь",
+	"Колючка, Медведь, Ромео",
 
-      ">Blade Storm",
-      "Dodge and Roll",
-      "Doppelganger",
-      "Riddle with Holes",
+      ">Шторм клинков",
+      "Уворот и перекат",
+      "Двойник",
+      "Изрешетить",
 
-      "Boot Sequence",
-      ">Recursion",
-      "Machine Learning",
-      "Reinforced Body",
+      "Инициализация",
+      ">Рекурсия",
+      "Машинное обучение",
+      "Укрепить корпус",
 
-      "Spike Slime",
-      "Red Louse",
-      "Mad Gremlin",
-      ">Blue Slaver",
+      "Шипастый слизень",
+      "Рыжая вошь",
+      "Безумный гремлин",
+      ">Голубой работорговец",
 
-      "The Collector",
-      "The Time Eater",
-      "The Mystic",
-      ">The Centurion",
+      "Коллекционер",
+      "Пожиратель времени",
+      "Жрица",
+      ">Центурион",
 
-      "One",
-      "Two",
-      ">Three",
-      "Four",
+      "1",
+      "2",
+      ">3",
+      "4",
 
       "img:images/1024PortraitsBeta/green/skill/backflip.png",
       "img:images/1024PortraitsBeta/green/skill/outmaneuver.png",
       "img:images/1024PortraitsBeta/green/skill/blur.png",
       ">img:images/1024PortraitsBeta/green/skill/acrobatics.png",
 
-      ">Enrage",
-      "Choke",
-      "Panache",
-      "Lock-On",
+      ">Бешенство",
+      "Удушение",
+      "Харизма",
+      "Захват цели",
 
-      ">Metalicize",
-      "Dexterity",
-      "Barricade",
-      "Plated Armor",
+      ">Металлизация",
+      "Ловкость",
+      "Баррикада",
+      "Панцирь",
 
-      ">A bomb",
-      "A flask",
-      "A blade",
-      "A syringe",
+      ">Бомба",
+      "Бутылка",
+      "Клинок",
+      "Шприц",
 
       ">31",
       "34",
       "29",
       "26",
 
-      ">Shame and Writhe",
-      "Regret and Pain",
-      "Shame and Injury",
-      "Pride and Regret",
+      ">Стыд и Муки",
+      "Сожаление и Боль",
+      "Стыд и Травма",
+      "Гордыня и Сожаление",
 
-      ">Shops are more costly",
-      "Unfavorable Events",
-      "Bosses are tougher",
-      "Upgraded cards appear less often",
+      ">Цены в магазинах выше",
+      "Неблаготворные события",
+      "Боссы живучее",
+      "Улучшенные карты реже",
 
-      ">Common",
-      "Uncommon",
-      "Rare",
-      "Shop",
+      ">Обычная",
+      "Необычная",
+      "Редкая",
+      "От торговца",
 
-      "Common",
-      "Uncommon",
-      ">Rare",
-      "Shop",
+      "Обычная",
+      "Необычная",
+      ">Редкая",
+      "От торговца",
 
-      "Common",
-      "Uncommon",
-      "Rare",
-      ">Shop"
+      "Обычная",
+      "Необычная",
+      "Редкая",
+      ">От торговца"
     ]
   },
   "theJungle:FauxPas": {
@@ -261,74 +261,74 @@
       "Before you can react, he speaks. #y\"Are #yyou #your #ynew #yfriend?\" NL NL Chattering voices suddenly fill the forest around you. #g\"I #glove #gnew #gfriends!\" #b\"Do #byou #bthink #bthis #bone #bwill #bstay #ba #bwhile?\" #p\"Oh #pit's #pbeen #p~so~ #p~long!\"~ #r\"I'm #rso #rexcited #rto #rplay #rwith #ryou!\" NL NL The faux speaks again. #y\"It's #ygoing #yto #ybe #y@so@ #y@much@ #y@fun!@ #yDon't #yyou #yagree?\" NL NL Do you agree?"
     ],
     "OPTIONS": [
-      "[Enter] Explore the passageway.",
-      "[Leave] Turn back.",
-      "[Agree] #gGain #g5 #gMax #gHP. #rLose #r10 #rHP.",
-      "[Disagree] #gObtain #ga #gspecial #gRelic. #rBecome #rCursed #r- #rShame.",
-      "[Run] #gGain #g200 #gGold. #rBecome #rCursed #r- #rNormality",
-      "[Leave]",
-      "[Agree] #gGain #g5 #gMax #gHP. #rLose #r15 #rHP.",
-      "[Run] #gGain #g150 #gGold. #rBecome #rCursed #r- #rNormality",
-      "[Continue]"
+      "[Войти] Исследовать проход.",
+      "[Уйти] Повернуть обратно .",
+      "[Согласиться] #gПолучить #g5 #gМакс. #gОЗ. #rПотерять #r10 #rОЗ.",
+      "[Отказаться] #gПолучить #gособую #gреликвию. #rПолучить #rПроклятье #r- #rСтыд.",
+      "[Убежать] #gПолучить #g200 #gЗолота. #rПолучить #rПроклятье #r- #rОбыденность",
+      "[Уйти]",
+      "[Согласиться] #gПолучить #g5 #gМакс. #gОЗ. #rПотерять #r15 #rОЗ.",
+      "[Убежать] #gПолучить #g150 #gЗолота. #rПолучить #rПроклятье #r- #rОбыденность",
+      "[Продолжить]"
     ]
   },
   "theJungle:LostInTheJungle": {
-    "NAME": "Lost in the Jungle",
+    "NAME": "Потерянный в Джунглях",
     "DESCRIPTIONS": [
-      "You have lost your orientation, and the way ahead is blocked by rubble. You cannot move further. NL NL Where should you turn to climb higher?",
-      "You climb a nearby vine, the weight of your relics dragging you down as the vine's thorns dig into your hands. NL NL As you reach the canopy, you spot a clearing nearby.",
-      "You reach a clearing in the jungle. It looks like someone has been digging here recently.",
-      "You use your shovel to dig up the ground. NL NL Very quickly you hit a chest, which is filled with #y",
-      " #ygold! NL NL Unfortunately, you are still lost.",
-      "You look around, and spot an abandoned shovel. This will prove useful later on. NL NL Unfortunately, you are still lost."
+      "Вы потерялись, и путь вперед заблокирует заблокирован валуном. Вы не можете двигаться дальше. NL NL Куда вы пойдете дальше, чтобы забраться повыше?",
+      "Вы забираетесь на ближающую лозу, вес ваших реликвий утаскивает вас вниз, пока шипы лозы ввинчиваются в ваши руки. NL NL Забравшись повыше, вы примечаете поляну недалеко.",
+      "Вы доходите до поляны в джунглях. Похоже, кто-то недавно тут что-то копал.",
+      "Вы используете свою лопату, чтобы раскопать землю. NL NL Очень быстро вы докапываетесь до сундука, заполненного #y",
+      " #yзолотом! NL NL Увы, вы всё так же заблудились.",
+      "Вы осматриваетесь, и замечаете брошенную лопату. Она пригодится позже. NL NL Увы, вы всё так же заблудились."
     ],
     "OPTIONS": [
-      "[Climb a Thorny Vine] #rTake #r",
-      " #rdamage. #gFind #gsomething.",
-      "[Squeeze through] #rBecome #rCursed #r- #rWrithe. #gFind #gsomething.",
-      "[Turn back]",
-      "[Go to the Clearing]",
-      "[Dig]",
-      "[Locked] Requires: Shovel",
-      "[Look Around]",
-      "[Locked]",
-      "[Leave]"
+      "[Схватить шипастую лозу] #rПотерять #r",
+      " #rОЗ. #gНайти #gкакую-то #gфигню.",
+      "[Протиснуться] #rПолучить #rПроклятьк #r- #rМуки. #gНайти #gкакую-то #gфигню.",
+      "[Обернуться]",
+      "[Пойти на поляну]",
+      "[Копать]",
+      "[Закрыто] Требуется: Лопата",
+      "[Оглянуться]",
+      "[Закрыто]",
+      "[Уйти]"
     ]
   },
   "theJungle:Kidnappers": {
-    "NAME": "Misty Forest",
+    "NAME": "Туманный лес",
     "DESCRIPTIONS": [
-      "As you're traversing through the ~foggy~ ~jungle~ , a rope suddenly tightens around your ankle. NL #r@You've@ #r@been@ #r@caught@ #r@in@ #r@a@ #r@trap!@",
-      "A number of tribesmen surround you. They are wearing ~black~ ~robes~ and #r@scarves@ #r@for@ #r@masks@ . You can't help but feel #r~malice~ coming from them. NL NL \"We caught one!\" NL ~\"Hey,~ ~this~ ~one~ ~doesn't~ ~look~ ~like~ ~a~ ~cultist...?\"~ NL \"You never know with those guys, #r@let's@ #r@get@ #r@'em...@ \" NL You may have time to escape in the confusion.",
-      "You make it clear that you are #r~NOT~ a cultist, nor an enemy, and have no qualms with their clan. NL Negotiating is a bit #r@painful@ , but they let you go, for a small price.",
-      "You struggle hard, but manage to use your weapon and break through the rope while they approach. NL They give chase, while more tribesmen surround you!",
-      "Seeing as you are not a cultist or an animal, you manage to bribe them with #ysome #ygold. NL They untie you and let you leave in piece, #r~but~ #r~you~ #r~can't~ #r~shake~ #r~the~ #r~feeling~ #r~that~ #r~someone~ #r~keeps~ #r~watching~ #r~you...~"
+      "Пока вы  проходите через ~мглистые~ ~джунгли~ , веревка внезапно сжимается на вашей лодыжке. NL #r@Вы@ #r@были@ #r@пойманы@ #r@в@ #r@ловушку!@",
+      "Несколько жителей племени окружило вас. Они одеты в ~черные~ ~халаты~ и #r@шарфами@ #r@вместо@ #r@масок@ . Вы не можете не чувствовать их #r~враждебность~. NL NL \"Один попался!\" NL ~\"Хм,~ ~этот~ ~не~ ~выглядит~ ~как~ ~культист...?\"~ NL \"С ними никогда не угадаешь, #r@давай@ #r@кончимet@ #r@этого...@ \" NL У вас есть немного времени прояснить это недоразумение.",
+      "Вы проясняете, что вы #r~НЕ~ культист, и не враг, и не враждуете с их кланом. NL Переговоры несколько #r@болезненны@ , но они отпускают вас, за небольшую цену.",
+      "Вы сильно напрягаетесь, и вам удается использовать ваши оружие и разрезать веревку, пока они приближаются. NL Они гонятся за вами, пока больше соплеменников окружают вас!",
+      "Видя, что вы не культист или дикарь, они позволяют вам подкупить их #yЗолотом. NL Они развязывают вас и дают уйти с миром, #r~но~ #r~вы~ #r~не~ #r~можете~ #r~избавиться~ #r~от~ #r~чувства~, #r~что~ #r~что-то~ #r~следит~ #r~за~ #r~вами...~"
     ],
     "OPTIONS": [
-      "[Proceed]",
-      "[Negotiate] #rLose #r",
-      " #rHP. #gRemove #ga #gcard #gfrom #gyour #gdeck.",
-      "[Cut the Rope] #rEnter #ra #rfight!",
-      "[Bribe] #rLose #r",
-      " #rGold.",
-      "[Locked] Requires: ",
-      " Gold.",
-      "[Leave]",
-      "[Fight!] #rGet #rinto #ra #rscuffle.",
-      "Remove a card from your deck."
+      "[Продолжить]",
+      "[Вступить в переговоры] #rПотерять #r",
+      " #rОЗ. #gУбрать #gкарту #gиз #gколоды.",
+      "[Разрезать веревку] #rНачать #rбой!",
+      "[Подкупить] #rПотерять #r",
+      " #rЗолота.",
+      "[Закрыто] Требуется: ",
+      " Золота.",
+      "[Уйти]",
+      "[Драться!] #rВступить #rв #rбой.",
+      "Убрать карту из колоды."
     ]
   },
   "theJungle:HappyBirthday" : {
-    "NAME": "Happy Birthday",
+    "NAME": "Счастливого дня рождения",
     "DESCRIPTIONS": [
-      "While wandering the jungle, you come across... NL ...a birthday cake? NL NL A small note sits next to the cake. It reads: NL NL #b\"Happy #bBirthday #bMTS! NL #b(Please #bonly #btake #bone #bslice) NL #b- #bkio\"",
-      "You only take a single slice, just as the note asked. NL NL It's quite delicious.",
-      "Looking around, you see nothing stopping you from taking the whole cake. NL NL #gIt #gis #gextremely #gtasty, but soon you are overcome by a #r~sense~ #r~of~ #r~shame~ at the atrocity you have committed."
+      "Пробираясь сквозь джунгли, вы натыкаетесь на... NL ...праздничный торт? NL NL Небольшая записка лежит рядом с тортом. На ней написано: NL NL #b\"Счастливого дня рождения, #bMTS! NL #b(Прошу,  #bвозьми #bтолько #bодин #bкусочек) NL #b- #bkio\"",
+      "Вы взяли только кусочек, как и просили в записке. NL NL Очень вкусно.",
+      "Вы не видите никого, кто бы остановил вас, если бы вы забрали весь торт. NL NL #gОН #gневероятно #gвкусный, но скоро вас одолевает #r~чувство~ #r~стыда~ из-за только что совершенного злодеяния."
     ],
     "OPTIONS": [
-      "[Take a Slice] #gGain #g%d #gMax #gHP.",
-      "[Steal Cake] #gGain #g%d #gMax #gHP. #rEternal #rShame.",
-      "[Leave]"
+      "[Взять кусочек] #gПолучить #g%d #gМакс. #gОЗ.",
+      "[Украсть торт] #gПолучить #g%d #gМакс. #gОЗ. #rВечный #rстыд.",
+      "[Уйти]"
     ]
   },
   "theJungle:JungleGarden" : {
@@ -339,10 +339,10 @@
       "It is delicious."
     ],
     "OPTIONS": [
-      "[Take Gourds] #gRemove #gall #gDefends. #gObtain #g5 #gGourds.",
-      "[Eat a Mango] #gHeal #g",
-      " #gHP.",
-      "[Leave]"
+      "[Забрать Тыквы] #gУбрать #gвсе #gЗащиты #gиз #gколоды. #gПолучить #g5 #gТыкв.",
+      "[Съесть Манго] #gВосполнить #g",
+      " #gОЗ.",
+      "[Уйти]"
     ]
   },
   "theJungle:StalkMarket" : {
@@ -368,7 +368,7 @@
       "[Creamberry] #rLose #r",
       " #rGold. #gObtain #ga #gspecial #gRelic.",
       "[Nothing]",
-      "[Leave]"
+      "[Уйти]"
     ]
   }
 }

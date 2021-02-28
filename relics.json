@@ -1,34 +1,34 @@
 {
   "theJungle:PaperFaux": {
-    "NAME": "Paper Faux",
+    "NAME": "Бумажная подделка",
     "DESCRIPTIONS": [
-      "Whenever you apply #yWeak, apply an additional #b",
-      " #yWeak. Whenever you apply #yVulnerable, apply an additional #b",
-      " #yVulnerable."
+      "Когда вы накладываете #yСлабость, накладывает доп. #b",
+      " #yСлабости. Когда вы накладываете #yУязвимость, накладывает доп. #b",
+      " #yУязвимости."
     ],
-    "FLAVOR": "A silent effigy you found in the forest clearing. It seems to be watching you."
+    "FLAVOR": "Молчаливый портрет, найденный вами на лесной поляне. Кажется, оно следит за вами."
   },
   "theJungle:SpiritDisease": {
     "NAME": "Недуг духов",
-    "DESCRIPTIONS": ["В след. сундуке, который вы откроете, реликвия будет заменена на  #rSpirit #rPoop (исключая релик босса)."],
+    "DESCRIPTIONS": ["В след. сундуке, который вы откроете, реликвия будет заменена на  #rИспражнения #rдухов (исключая релик босса)."],
     "FLAVOR": "Странная чума, которую вы получили, выпив странную воду... Вы не слишком хорошо себя чувствуете..."
   },
   "theJungle:SneckoAutograph": {
     "NAME": "Автограф Змекко",
     "DESCRIPTIONS": [
-      "[#2aecd7]Right [#2aecd7]click [#2aecd7]in [#2aecd7]a [#2aecd7]shop [#2aecd7]to [#2aecd7]activate.[] NL",
-      " Randomly obtain one of the relics.",
-      "Who knew the Merchant was such a big fan of Snecko?",
-      "I LOVE SNECKO GIRL!!"
+      "[#2aecd7]Нажмите [#2aecd7]Правой [#2aecd7]кнопкой [#2aecd7]мыши [#2aecd7]в [#2aecd7]магазине, [#2aecd7]чтобы [#2aecd7]использовать.[] NL",
+      " Получите одну случайную продаваемую реликвию.",
+      "Кто знал, что Торговец настолько большой фанат Змекко?",
+      "Я ОБОЖАЮ ДЕВОЧКУ ЗМЕККО!!"
     ],
     "FLAVOR": "To Snecko's #0-3 fan."
   },
   "theJungle:WildMango": {
     "NAME": "Дикое манго",
-    "FLAVOR": "A succulent fruit grown within the spire, not meant to be consumed by the untainted.",
+    "FLAVOR": "Сочный фрукт, выросший внутри Шпиля, не предназначенный в пищу для незаражённых.",
     "DESCRIPTIONS": [
-      "Upon pickup, raise your Max HP by #b",
-      ". Start each combat with #ySlow."
+      "При получении повышает Макс. ОЗ на #b",
+      ". Вы начинаете каждый бой с #yМедлительностью."
     ]
   },
   "theJungle:WildStrawberry": {
@@ -50,7 +50,7 @@
   },
   "theJungle:BirthdayCakeSlice": {
     "NAME": "Кусочек праздничного торта",
-    "FLAVOR": "A nice slice of birthday cake to celebrate.",
+    "FLAVOR": "Приятный кусочек праздничного торта, чтобы отпраздновать.",
     "DESCRIPTIONS": [
       "При получении повышает Макс. ОЗ на #b"
     ]
@@ -80,10 +80,10 @@
   },
   "theJungle:Flamango": {
     "NAME": "Пламанго",
-    "FLAVOR": "A mango concentrated with a forgotten firepower. Spicy!",
+    "FLAVOR": "Манго обогащенный забытой огневой мощью. Острый!",
     "DESCRIPTIONS": [
-      "Whenever you play an #yAttack, deal #b",
-      " damage to ALL enemies at the end of your turn."
+      "Наносит #b",
+      " урона ВСЕМ врагам в конце вашего ходп, когда вы разыгрываете #yАтаку."
     ]
   },
   "theJungle:Creamberry": {

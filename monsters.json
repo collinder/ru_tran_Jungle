@@ -1,206 +1,206 @@
 {
 	"theJungle:Cassacara": {
 		"MOVES": [
-			"Big Bite",
-			"Прожевать",
-			"Bottomless Stomach"
+			"Большой укус",
+			"Жевание",
+			"Бездонный желудок"
 		],
-		"NAME": "Cassacara",
+		"NAME": "Кассакара",
 		"DIALOG": []
 	},
 	"theJungle:CarcassSack": {
 		"MOVES": [],
-		"NAME": "Carcass Sack",
+		"NAME": "Мясной мешок",
 		"DIALOG": []
 	},
 	"theJungle:GiantWrat": {
 		"MOVES": [
-			"Fat Burner",
-			"Slam",
-			"Flail"
+			"Жиросжигатель",
+			"Швырок",
+			"Бичевание"
 		],
-		"NAME": "Giant Wrat",
+		"NAME": "Гигантский грыс",
 		"DIALOG": []
 	},
 	"theJungle:Phrog": {
 		"MOVES": [
-			"Lick",
-			"Jump",
-			"Croak",
+			"Лизание",
+			"Прыжок",
+			"Квакание",
 			""
 		],
-		"NAME": "Phrog",
+		"NAME": "Млягуш",
 		"DIALOG": [
-			"riiiiibbit!"
+			"Квааааа!"
 		]
 	},
 	"theJungle:Flameango": {
 		"MOVES": [
 			"Пламенное дыхание",
-			"Incendiary Down"
+			"Зажигательное приземление"
 		],
-		"NAME": "Flameango",
+		"NAME": "Пламинго",
 		"DIALOG": [
-			"Welcome to flavor town!"
+			"Добро пожаловать в город приправ!"
 		]
 	},
 	"theJungle:TotemBoss": {
 		"MOVES": [
-			"Totem Smash"
+			"Тотемное сокрушение"
 		],
-		"NAME": "Totem Speaker",
+		"NAME": "Тотем оратор",
 		"DIALOG": [
 			""
 		]
 	},
 	"theJungle:BashTotem": {
 		"MOVES": [
-			"Totem Smash"
+			"Тотемное сокрушение"
 		],
-		"NAME": "Menacing Totem",
+		"NAME": "Угрожающий тотем",
 		"DIALOG": [
 			""
 		]
 	},
 	"theJungle:BuffTotem": {
 		"MOVES": [
-			"Totem Smash"
+			"Тотемное сокрушение"
 		],
-		"NAME": "Enriching Totem",
+		"NAME": "Обогащающий тотем",
 		"DIALOG": [
 			""
 		]
 	},
 	"theJungle:DebuffTotem": {
 		"MOVES": [
-			"Totem Smash"
+		    "Тотемное сокрушение"
 		],
-		"NAME": "Debilitating Totem",
+		"NAME": "Истощающий тотем",
 		"DIALOG": [
 			""
 		]
 	},
 	"theJungle:ShieldOtherTotem": {
 		"MOVES": [
-			"Totem Smash"
+			"Тотемное сокрушение"
 		],
-		"NAME": "Protecting Totem",
+		"NAME": "Защищающий тотем",
 		"DIALOG": [
 			""
 		]
 	},
 	"theJungle:DoubleStrikeTotem": {
 		"MOVES": [
-			"Totem Smash"
+			"Тотемное сокрушение"
 		],
-		"NAME": "Eviscerating Totem",
+		"NAME": "Опустошающий тотем",
 		"DIALOG": [
 			""
 		]
 	},
 	"theJungle:ConfuseTotem": {
 		"MOVES": [
-			"Totem Smash"
+			"Тотемное сокрушение"
 		],
-		"NAME": "Bewildering Totem",
+		"NAME": "Озадачивающий тотем",
 		"DIALOG": [
 			""
 		]
 	},
 	"theJungle:AttackAndShieldTotem": {
 		"MOVES": [
-			"Totem Smash"
+			"Тотемное сокрушение"
 		],
-		"NAME": "Encouraging Totem",
+		"NAME": "Подстрекающий тотем",
 		"DIALOG": [
 			""
 		]
 	},
 	"theJungle:JungleHunters": {
 		"MOVES": [
-			"Backflip",
-			"Neutralize",
-			"Sneaky Strike",
-			"Spear Dance"
+			"Сальто назад",
+			"Неитрализация",
+			"Коварный удар",
+			"Танец копья"
 		],
-		"NAME": "Jungle Hunter"
+		"NAME": "Охотник из Джунглей"
 	},
 	"theJungle:SwingingAxe": {
 		"MOVES": [
-			"Reboot"
+			"Возвращение"
 		],
-		"NAME": "Swinging Axe Trap",
+		"NAME": "Раскачивающиеся топор-ловшука",
 		"DIALOG": [
 			""
 		]
 	},
 	"theJungle:FunGuy": {
 		"MOVES": [
-			"Chomp",
-			"Infection",
-			"Spread Spores",
-			"Sporeburst",
-			"Growth",
-			"Assimilate"
+			"Чавкание",
+			"Инфекция",
+			"Распостранение спор",
+			"Споровзрыв",
+			"Рост",
+			"Усвоение"
 		],
-		"NAME": "Mawshroom",
+		"NAME": "Грибок",
 		"DIALOG": [
 			""
 		]
 	},
 	"theJungle:SlimyTreeVines": {
-		"NAME": "Slimy Jungle Vines",
-		"MOVES": ["Tangle","Split"],
-		"DIALOG": ["Jungle Vines"]
+		"NAME": "Скользкие лозы",
+		"MOVES": ["Запутывание","Разделение"],
+		"DIALOG": ["Лозы из джунглей"]
 	},
 	"theJungle:MamaSnecko": {
 		"NAME": "Мама Змекко",
-		"MOVES": ["Lay Eggs","Glare","Tail Whip","Bite","Furious Attack"],
-		"DIALOG": ["~Hissssss...~"]
+		"MOVES": ["Откладывание яиц","Озадачивающий взгляд","Взмах хвостом","Укус","Яростная атака"],
+		"DIALOG": ["~Шшшшшшшш...~"]
 	},
 	"theJungle:SneckoEgg": {
-		"NAME": "Snecko Egg",
-		"MOVES": ["","Hatch"],
+		"NAME": "Яйцо Змекко",
+		"MOVES": ["","Вылупление"],
 		"DIALOG": [""]
 	},
 	"theJungle:BabySnecko": {
 		"NAME": "Детеныш Змекко",
-		"MOVES": ["Укус","Взгляд"],
+		"MOVES": ["Укус","Озадачивающий взгляд"],
 		"DIALOG": [""]
 	},
 	"theJungle:SneckoCultist": {
 		"MOVES": [
-			"Whip",
-			"CONFUSE",
-			"Tackle"
+			"Кнут",
+			"ОЗАДАЧИТЬ",
+			"Захват"
 		],
-		"NAME": "Snecko Cultist",
+		"NAME": "Культист Змекко",
 		"DIALOG": [
-			"@ALL@ @HAIL@ @LORD@ NL @SNECKO!@",
-			"@...sssssssssss...@"
+			"@СЛАВА@ @ВЕЛИКОЙ@ NL @ЗМЕККО!@",
+			"@...ссссссс...@"
 		]
 	},
 	"theJungle:Lyon": {
-		"NAME": "Lyon",
-		"MOVES": ["Roar","Pounce"],
-		"DIALOG": ["ROOAAR!"]
+		"NAME": "Леф",
+		"MOVES": ["Рык","Врыв"],
+		"DIALOG": ["РРРРР!"]
 	},
 	"theJungle:MushroomYandere": {
-		"NAME": "Pointy Mushroom"
+		"NAME": "Заостренный гриб"
 	},
 	"theJungle:MushroomKuudere": {
-		"NAME": "Shy Mushroom"
+		"NAME": "Робкий гриб"
 	},
 	"theJungle:MushroomGenki": {
-		"NAME": "Energetic Mushroom"
+		"NAME": "Энергичный гриб"
 	},
 	"theJungle:QueenSpyder": {
-		"NAME": "Spyder Queen"
+		"NAME": "Павучья королева"
 	},
 	"theJungle:HunterSpyder": {
-		"NAME": "Spyder Hunter"
+		"NAME": "Павук охотник"
 	},
 	"theJungle:DefenderSpyder": {
-		"NAME": "Spyder Defender"
+		"NAME": "Павук защитник"
 	}
 }
