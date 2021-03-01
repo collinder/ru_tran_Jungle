@@ -62,9 +62,9 @@
   "theJungle:SneckoIdol": {
     "NAME": "Змекко вживую!?",
     "DESCRIPTIONS": [
-      "#g~ЗМЕККО~ #g~ЗМЕККО~ #g~ЗМЕККО~ NL @Оглушительные@ апплодисменты раздуются, пока девочка комбинезоне Змекоо поёт и танцует на сцене. NL \"Это было 'Ты озадачиваешь моё сердце'\"! NL #g~БИС~ #g~БИС~ #g~БИС~ NL Может, будет неплохо остаться и посмотреть?",
-      "Вы решаете остаться for the #g~jammin'~ tunes. Энергичный концерт @поглащает@ вас и вы не можете не остаться, чтобы взять автограф вашей новой страсти. NL \" #g@Хей!@ \", девочка в комбинезоне Змекко улыбается вам. \"Вот и мой автограф!\" NL Вы берёте его и уходите, зная, что вы только что были #rодержимы идолом.",
-      "Одолеваемые #r@яростью@ от вида очередного Змекко, вы достаёте оружие и устремляетесь к сцене. #r@ОРДА@ фанатов идола отталкивает и не позволяет вам пройти. NL С другой стороны, они уронили немного мерча Змекко, который вам удаются толкнуть фанатам, не попавшим в аудиторию.",
+      "#g~ЗМЕККО~ #g~ЗМЕККО~ #g~ЗМЕККО~ NL @Оглушительные@ апплодисменты раздаются, пока девочка комбинезоне Змекоо поёт и танцует на сцене. NL \"Это было 'Ты озадачиваешь моё сердце'\"! NL #g~БИС~ #g~БИС~ #g~БИС~ NL Может, будет неплохо остаться и посмотреть?",
+      "Вы решаете остаться ради #g~импровизированных~ мелодий. Энергичный концерт @поглащает@ вас и вы не можете не остаться, чтобы взять автограф вашей новой страсти. NL \" #g@Хей!@ \", девочка в комбинезоне Змекко улыбается вам. \"Вот и мой автограф!\" NL Вы берёте его и уходите, зная, что вы только что были #rодержимы идолом.",
+      "Одолеваемые #r@яростью@ от вида очередного Змекко, вы достаёте оружие и устремляетесь к сцене. #r@ОРДА@ фанатов идола отталкивает и не позволяет вам пройти. NL С другой стороны, они уронили немного мерча Змекко, который вам удается толкнуть фанатам, не попавшим в аудиторию.",
       "Решив, что это бессмысленная трата времени, вы покидаете концерт."
     ],
     "OPTIONS": [
@@ -124,7 +124,7 @@
       "theActAssets/images/events/quiz/card2.png",
       "Что это за Талант?",
       "theActAssets/images/events/quiz/power1.png",
-мм      "Что это за Талант?",
+      "Что это за Талант?",
       "theActAssets/images/events/quiz/power2.png",
       "Чего не хватает на этой картинке?",
       "theActAssets/images/events/quiz/card3.png",
@@ -332,11 +332,11 @@
     ]
   },
   "theJungle:JungleGarden" : {
-    "NAME": "Jungle Garden",
+    "NAME": "Сад в джунглях",
     "DESCRIPTIONS": [
-      "Hidden deep in the jungle you find a lush garden, overflowing with fruits and vegetables. By some miracle, it seems to be untouched by the Spireblight.",
-      "You pick several gourds from the trees around the garden. They will prove useful for carrying around water, or blood. NL You can no longer fight as effectively while holding 5 gourds in your hands, but they are probably worth it.",
-      "It is delicious."
+      "Вы находите скрытый глубоко в джунглях пышный сад, заполненный фруктами и овощами. Каким-то чудом, он не затронут чумой Шпиля.",
+      "Вы подбираете несколько тыкв с деревьев в саду. Они будут полезны для переноски воды, или крови. NL Вы не можете так же эффективно сражаться, пока удерживаете 5 тыкв в руках, но наверно они того стоят.",
+      "Очень вкусно."
     ],
     "OPTIONS": [
       "[Забрать Тыквы] #gУбрать #gвсе #gЗащиты #gиз #gколоды. #gПолучить #g5 #gТыкв.",
@@ -346,9 +346,9 @@
     ]
   },
   "theJungle:StalkMarket" : {
-    "NAME": "Stalk Market",
+    "NAME": "Блошиный рынок",
     "DESCRIPTIONS": [
-      "A lush greenfield greets you with a curved and flowered log arch as the entrance. Etched on it reads #g\"STALK #gMARKET\". As you explore this curiously peaceful area populated with varying denizens of the Jungle, you understand what this place is about. It's the largest gathering center for exotic #gplants and #ycrops with each creature holding harvest yields with #ystalk #ycertificates.",
+      "Пышный greenfield встречает вас изогнутой деревянной аркой с цветами. На ней выгравлено #g\"БЛОШИНЫЙ #gРЫНОК\". As you explore this curiously peaceful area populated with varying denizens of the Jungle, you understand what this place is about. It's the largest gathering center for exotic #gplants and #ycrops with each creature holding harvest yields with #ystalk #ycertificates.",
       "Scattered around are many plots and gardens where everything grows. You enter one and are greeted by a dapper-looking, ecstatic gremlin. NL NL \"I've never seen your face here, you must be new to the #gStalk #gMarket! Would you like to buy a stalk from this plot? We have special #rfruits and #gvegetables no other plot has!\"",
       "\"Oh, I understand... But we have plenty of harvests for adventurers on the go as well!\" NL NL The gremlin gives you a personal tour through the field. She wasn't kidding; you don't recognize any of these plants, not even from before the #pSpireblight. NL NL \"...and over here, we have #rflamangos, sweet and spicy! And my personal favorite just right here, the #rcreamberry! They're so rich in flavor inside!\"",
       "\"So, interested? Also, please note we are only allowed to sell #bone harvest per visitor.\"",

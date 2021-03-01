@@ -21,7 +21,7 @@
       "Кто знал, что Торговец настолько большой фанат Змекко?",
       "Я ОБОЖАЮ ДЕВОЧКУ ЗМЕККО!!"
     ],
-    "FLAVOR": "To Snecko's #0-3 fan."
+    "FLAVOR": "#0-3 fan."
   },
   "theJungle:WildMango": {
     "NAME": "Дикое манго",
@@ -45,7 +45,7 @@
     "FLAVOR": "Даже этот фрукт чума не пощадила.",
     "DESCRIPTIONS": [
       "При получении повышает Макс. ОЗ на #b",
-      ". Start each combat with #b1 #ySlothful."
+      ".Вы начинате каждый бой с #b1 #yЛенью."
     ]
   },
   "theJungle:BirthdayCakeSlice": {
@@ -65,17 +65,17 @@
   },
   "theJungle:ParSnip": {
     "NAME": "Par Snip",
-    "FLAVOR": "Definitely more than your average vegetable, despite the name. Rich in vitamins!",
+    "FLAVOR": "Определенно лучше, чем обычного овоща, несмотря на название. Богат витаминами!",
     "DESCRIPTIONS": [
       "При получении #yУлучшает все #yБазовые карты."
     ]
   },
   "theJungle:ShellPeas": {
-    "NAME": "Shell Peas",
-    "FLAVOR": "These huge peas actually contain normal-sized peas inside. It has an interesting texture as you chew.",
+    "NAME": "Гороховый стручок",
+    "FLAVOR": "Внутри этих огромных горошин на самом деле горошины нормального размера. Вы замечате интересную фактура, пока жуете.",
     "DESCRIPTIONS": [
-      "Whenever you are attacked, gain #b",
-      " #yTemporary_HP."
+      "Даёт #b",
+      " #yвременные_оз каждый раз, когда вы атакованы."
     ]
   },
   "theJungle:Flamango": {
