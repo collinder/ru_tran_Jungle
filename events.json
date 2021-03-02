@@ -250,15 +250,15 @@
     ]
   },
   "theJungle:FauxPas": {
-    "NAME": "Faux Pas",
+    "NAME": "Совершенный поддельник",
     "DESCRIPTIONS": [
-      "As you walk through a #gdense #gportion of the Jungle, walls of trees seem to ~bend~ ~and~ ~twist~ into a narrow passageway. You catch a flash of light reflecting off several pairs of eyes, #y~skulking~ in the #pshadows near the tunnel of trees, watching your approach.",
-      "You decide to explore the strange formation of trees. As you walk the path, you are constantly surrounded by the ~rustling~ ~of~ #g~leaves,~ hushed whispers, and @muffled@ @laughter.@ Eventually, you find yourself approaching a clearing in the dense trees, with a #ystrange #yeffigy located on a stump right in the center. Just when you think you're walking right into an ambush, a #ysmall #yorange #yfaux ~leaps~ from behind a tree and sits at the entrance to the clearing in front of you, eyeing you curiously.",
-      "You decide, this time, that discretion is the better part of valor and make your way around the cluster of trees.",
-      "Something about the #yplayful #yfauxes captures a rare part of your imagination. You decide to humor the #yfaux and, before you know it, you find yourself caught up in their various games. NL NL Some time later you find yourself back at the entrance of the trees, out of breath but with a #rrenewed #rvigor for your quest.",
-      "A #p~hushed~ #p~silence~ falls over the clearing, and you could swear you see the faux's expression change to one of #p~deep~ #p~sadness.~ You turn to look at a quiet @sniffle@ you hear to your right, but there is nothing. When you look back, the faux's leader is gone. NL NL All that's left is the #ystrange #yobject on the stump, which you decide to take back with you, along with a deep #psense #pof #pshame for having disappointed the forest's critters.",
-      "You can only assume this is a trap. You decide to turn and flee. NL NL The fauxes begin crying excitedly. #b\"A #brace?\" #g~\"I~ #g~love~ #g~races!\"~ #p\"I'll #p@definitely@ #pwin #pthis #ptime!\" #r\"Wow, #rthis #rone #ris #rfast!\" NL NL The voices close in, but you stay just ahead of them. Just when you think your lungs might give out, you burst out into the open, outside of the maw of the forest. Your pursuers stop, and silence falls. NL NL After you catch your breath, you notice a small sack lying on the ground, #yfilled #ywith #ygold. Attached is a note simply saying #p\"winner!\" NL NL What strange creatures.",
-      "Before you can react, he speaks. #y\"Are #yyou #your #ynew #yfriend?\" NL NL Chattering voices suddenly fill the forest around you. #g\"I #glove #gnew #gfriends!\" #b\"Do #byou #bthink #bthis #bone #bwill #bstay #ba #bwhile?\" #p\"Oh #pit's #pbeen #p~so~ #p~long!\"~ #r\"I'm #rso #rexcited #rto #rplay #rwith #ryou!\" NL NL The faux speaks again. #y\"It's #ygoing #yto #ybe #y@so@ #y@much@ #y@fun!@ #yDon't #yyou #yagree?\" NL NL Do you agree?"
+      "Пока вы проходите через #gдремучие  #gДжунгли, ряды деревьяв как буто ~искривляются~ ~и~ ~скручиваются~ в прямой проход. ВЫ ловите пару взглядов существ, #y~прячущихся~ в #pтенях рядом с туннелем деревьев и наблюдающими за вашим приближением.",
+      "Вы решаете исследовать эту странную контрукцию из деревьев. Проходя по пути, вы всё время слышите ~шелест~ #g~листьев,~ приглушенные шепотки, и @приглушенный@ @смех.@ В итоге, вы замечаете приближающуюся просеку в плотных деревьях, со #yстранным #yизображением, на пне прямо в центре. Когда вы уже думате, что идете просто в экхотичную засаду, #yмаленький #yоранжевый #yподдельник ~спрыгивает~ с дерева и усаживается на входе в просеку, перед вами, разглядывая вас с любопытством.",
+      "Вы решаете, на этот раз, что рассудительность - лучшая часть доблести и обходите скопление деревьев.",
+      "Что-то в #yигривых #yподдельниках захватывает ваше воображение. Вы решаете ублажить #yподдельников и, не успев очнуться, вы замечате, что затянуты в их разнообразные игры. NL NL Немного позже вы находите себя на входе из деревьев, усталым, но с #rобновленной #rстрастью закончить свою миссию.",
+      "#p~Приглушенная~ #p~тишина~ падает на просеку, и вы можете поклясться, что выражение лица faux's сменяется на #p~глубокую~ #p~печаль.~ Вы поворачиваетесь, чтобы посмотреть на тихий @шелест@, услышанный вами справа, но там ничего нет. Когда вы оглядываетесь, лидера поддельников уже нет. NL NL Всё, что осталось - #yстранный #yобъект на пне, который вы решаете взять с собой, с глубоким #pчувством #pстыда от огорчения лесных созданий.",
+	"Вы можете только предположить, что всё это - ловушка. Вы решаете свалить. NL NL The fauxes начинают восхищенно кричать. #b\"гонка?\" #g~\"Я~ #g~обожаю~ #g~гонки!\"~ #p\"В #pэтот #pраз  #p@определенно@  #pвыиграю!\" #r\"Вах, #rэтот #rтакой #rбыстрый!\" NL NL Голоса приближаются, но вам удается оставаться впереди. Когда вы ужу думаете, что ваши легкие выпрыгнут наружу, вы выбегаете наружу, из челюстей этого страшного леса. Ваши преследователи останавливаются, и опускается тишина. NL NL После того, как вы отдышались, вы замечате небольшой мешок на земле, #yнаполненный  #yзолотом. К нему присобачена записка с надписью #p\"победитель!\" NL NL Что за странные создания.",
+      "Раньше, чем вы успеваете среагировать, он справшивает. #y\"Ты #yнаш #yновый #yдруг?\" NL NL Журчащие голоса внезапно наполняют лес вокруг вас. #g\"#gЛюблю #gновых #gдрузей!\" #b\"Как #bдумаешь, #bэтот #bостанется #bхоть #bненадолго?\" #p\"Эх, #pпрошло  #p~столько~ #p~времени!\"~ #r\"Я #rтак #rрад #rпоиграть #rс #rтобой!\" NL NL The faux speaks again. #y\"Это #yбудет #y@так@ #y@весело!@ #yТы #yже #yсогласен?\" NL NL Согласитесь ли вы?"
     ],
     "OPTIONS": [
       "[Войти] Исследовать проход.",
@@ -348,26 +348,26 @@
   "theJungle:StalkMarket" : {
     "NAME": "Блошиный рынок",
     "DESCRIPTIONS": [
-      "Пышный greenfield встречает вас изогнутой деревянной аркой с цветами. На ней выгравлено #g\"БЛОШИНЫЙ #gРЫНОК\". As you explore this curiously peaceful area populated with varying denizens of the Jungle, you understand what this place is about. It's the largest gathering center for exotic #gplants and #ycrops with each creature holding harvest yields with #ystalk #ycertificates.",
-      "Scattered around are many plots and gardens where everything grows. You enter one and are greeted by a dapper-looking, ecstatic gremlin. NL NL \"I've never seen your face here, you must be new to the #gStalk #gMarket! Would you like to buy a stalk from this plot? We have special #rfruits and #gvegetables no other plot has!\"",
-      "\"Oh, I understand... But we have plenty of harvests for adventurers on the go as well!\" NL NL The gremlin gives you a personal tour through the field. She wasn't kidding; you don't recognize any of these plants, not even from before the #pSpireblight. NL NL \"...and over here, we have #rflamangos, sweet and spicy! And my personal favorite just right here, the #rcreamberry! They're so rich in flavor inside!\"",
-      "\"So, interested? Also, please note we are only allowed to sell #bone harvest per visitor.\"",
-      "#g\"Par #gsnip, a #ysimple but #ghealthy choice! Many of the stalk holders for this feed this to their kids! Still great for grown-ups!\" NL NL After rinsing with water, you take a bite out of your farm-fresh #gpar #gsnip. You feel #yinvigorated!",
-      "#r\"Flamango, #rspicier than you think! Almost as spicy as the notorious #papparition #ppeppers!\" NL NL After rinsing with water, you slice your farm-fresh #rflamango into chunks. #r@Hot,@ #r@Hot,@ #r@Hot!@",
-      "#g\"Shell #gpeas, they have quite the #ytexture! Just crunch the big pea and chew on the tiny ones!\" NL NL After rinsing with water, you try out your farm-fresh #gshell #gpeas. You feel #ytough!",
-      "#r\"Creamberry, the #babsolute #bdelicacy! Whoever created this really knows what #bmouth-watering is like!\" NL NL After rinsing with water, you soak your farm-fresh #rcreamberry into your mouth. The #babsolute #bdelicacy indeed!",
-      "\"I'm sorry, perhaps this plot isn't too interesting to you. Come back if you change your mind though!\" NL NL You feel a little bad for not buying something given how much she seems to like her job, but so it goes.",
-      "Scattered around are many plots and gardens where everything grows. You enter one and are greeted by a #r@dapper-looking,@ ecstatic gremlin. NL NL \"I've never seen your face here, you must be new to the Stalk Market! Would you like to buy a stalk from this plot? We have special fruits and vegetables no other plot has!\""
+      "Засеянные поля встречают вас изогнутой деревянной аркой с цветами. На ней выгравлено #g\"БЛОШИНЫЙ #gРЫНОК\". Пока вы исследуете эти необычайную мирную область, населенную разнообразными жителями Джунглей, вы понимате, что происходит в этом месте. Это крупнейший центр сбора экзотических #gрастений и #yкультур, где каждое существо владеет держит поля с урожаями, имея #yблошиные #yсертификаты.",
+      "Вокруг разбросано множество полей и садов, где всё и растет. Вы заходите на одно, и вас приветствует a опрятный, восторженный гремлин. NL NL \"Никто не видела твоё лицо раньше, ты наверно новенький в #gблошином #gрынке! Хотели бы купить урожай с этой земли? У нас тут есть особенные #rфрукты и #gовощи, которых нигде больше нет!\"",
+	"\"О, Я понимаю... Но у нас есть куча урожаев для активных приключенцев тоже!\" NL NL Гремлин проводит вам личную экскурсию через поле. Она не шутит - вы не узнаете ни один из этих растений, даже те, что были #pЧумы #pШпиля. NL NL \"...и вот здесь, у нас растут #rпламанго, сладкие и острые! И мой личный фаворит прямо тут, #rкребника! Внутри такой богатый букет!\"",
+      "\"Ну, вы заинтересованы? И ещё, прошу, поймите, нам можно продовать только #bодин сбор каждому посетителю.\"",
+      "#g\"Ломтик #gхрена, #yпростой и #gздоровый выбор! Многие здешние земвладельцы кормят им своих детей! Так же хорош и для взрослых!\" NL NL Помыв овощ, вы откусываете кусок от вашего свежего #gхрена. #yБодряще!",
+      "#r\"Фламанго, #rострее, чем вам кажется! Почти настолько же острые, как прославленные #pпризрачные #pперчики!\" NL NL Помыв #rфламанго, вы разрезаете ваш свежий #rфламанго на кусочки. #r@Горячо,@ #r@Горячо,@ #r@Горячо!@",
+      "#g\"Гороховый #gстручок, офигенная #yфактура! Просто разгрызть большую горошину и разжевать маленькие внутри!\" NL NL Помыв овощ, вы пробуете вашу свежий #gгороховый #gстручок. Вы чувствуете себя #yкруто!",
+      "#r\"Кребника, #bсовершенный #bделикатес! Кто бы ни создал её, он определенно понимал, насколько она будет #bсоблазнительной!\" NL NL Помыв #rкребнику, вы кидаете вашу свежую #rкребнику в рот. И впрямь #bСовершенный #bделикатес!",
+      "\"Простите, наверно эта ферма не так уж вам интересна. Возвращайтесь, если передумаете!\" NL NL Вам немного жалко, что вы ничего не купили, учитывая, насколько она любит свою работу, но что поделать.",
+      "Вокруг разбросано множество полей и садов, где всё и растет. Вы заходите на одно, и вас приветствует a опрятный, восторженный гремлин. NL NL \"Никто не видела твоё лицо раньше, ты наверно новенький в #gблошином #gрынке! Хотели бы купить урожай с этой земли? У нас тут есть особенные #rфрукты и #gовощи, которых нигде больше нет!\""
     ],
     "OPTIONS": [
-      "[Continue]",
-      "[Just a Visitor]",
-      "[Par Snip] #rLose #r",
-      "[Flamango] #rLose #r",
-      "[Shell Peas] #rLose #r",
-      "[Creamberry] #rLose #r",
-      " #rGold. #gObtain #ga #gspecial #gRelic.",
-      "[Nothing]",
+      "[Продожить]",
+      "[Просто посетитель]",
+      "[Par Snip] #rПотерять #r",
+      "[Фламанго] #rПотерять #r",
+      "[Гороховый стручок] #rПотерять #r",
+      "[Кребника] #rПотерять #r",
+      " #rЗолота. #gПолучить #gособую #gреликвию.",
+      "[Ничего]",
       "[Уйти]"
     ]
   }
